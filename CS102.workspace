@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CS102" Database="">
+  <Project Name="TestLab" Path="TestLab/TestLab.project" Active="No"/>
+  <Project Name="LabA" Path="LabA/LabA.project" Active="No"/>
+  <Project Name="DebugA" Path="DebugA/DebugA.project" Active="No"/>
+  <Project Name="DebugB" Path="DebugB/DebugB.project" Active="No"/>
+  <Project Name="LabB" Path="LabB/LabB.project" Active="No"/>
+  <Project Name="DebugC" Path="DebugC/DebugC.project" Active="No"/>
+  <Project Name="LabC" Path="LabC/LabC.project" Active="No"/>
+  <Project Name="DebugD" Path="DebugD/DebugD.project" Active="No"/>
+  <Project Name="LabD" Path="LabD/LabD.project" Active="No"/>
+  <Project Name="Sandbox" Path="Sandbox/Sandbox.project" Active="No"/>
+  <Project Name="DebugE" Path="DebugE/DebugE.project" Active="No"/>
+  <Project Name="LabE" Path="LabE/LabE.project" Active="No"/>
+  <Project Name="DebugF" Path="DebugF/DebugF.project" Active="No"/>
+  <Project Name="LabF" Path="LabF/LabF.project" Active="No"/>
+  <Project Name="LabG" Path="LabG/LabG.project" Active="No"/>
+  <Project Name="LabH" Path="LabH/LabH.project" Active="No"/>
+  <Project Name="DebugI" Path="DebugI/DebugI.project" Active="No"/>
+  <Project Name="LabI" Path="LabI/LabI.project" Active="No"/>
+  <Project Name="LabJ" Path="LabJ/LabJ.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TestLab" ConfigName="Debug"/>
+      <Project Name="LabA" ConfigName="Debug"/>
+      <Project Name="DebugA" ConfigName="Debug"/>
+      <Project Name="DebugB" ConfigName="Debug"/>
+      <Project Name="LabB" ConfigName="Debug"/>
+      <Project Name="DebugC" ConfigName="Debug"/>
+      <Project Name="LabC" ConfigName="Debug"/>
+      <Project Name="DebugD" ConfigName="Debug"/>
+      <Project Name="LabD" ConfigName="Debug"/>
+      <Project Name="Sandbox" ConfigName="Debug"/>
+      <Project Name="DebugE" ConfigName="Debug"/>
+      <Project Name="LabE" ConfigName="Debug"/>
+      <Project Name="DebugF" ConfigName="Debug"/>
+      <Project Name="LabF" ConfigName="Debug"/>
+      <Project Name="LabG" ConfigName="Debug"/>
+      <Project Name="LabH" ConfigName="Debug"/>
+      <Project Name="DebugI" ConfigName="Debug"/>
+      <Project Name="LabI" ConfigName="Debug"/>
+      <Project Name="LabJ" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TestLab" ConfigName="Release"/>
+      <Project Name="LabA" ConfigName="Release"/>
+      <Project Name="DebugA" ConfigName="Release"/>
+      <Project Name="DebugB" ConfigName="Release"/>
+      <Project Name="LabB" ConfigName="Release"/>
+      <Project Name="DebugC" ConfigName="Release"/>
+      <Project Name="LabC" ConfigName="Release"/>
+      <Project Name="DebugD" ConfigName="Release"/>
+      <Project Name="LabD" ConfigName="Release"/>
+      <Project Name="Sandbox" ConfigName="Release"/>
+      <Project Name="DebugE" ConfigName="Release"/>
+      <Project Name="LabE" ConfigName="Release"/>
+      <Project Name="DebugF" ConfigName="Release"/>
+      <Project Name="LabF" ConfigName="Release"/>
+      <Project Name="LabG" ConfigName="Release"/>
+      <Project Name="LabH" ConfigName="Release"/>
+      <Project Name="DebugI" ConfigName="Release"/>
+      <Project Name="LabI" ConfigName="Release"/>
+      <Project Name="LabJ" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
